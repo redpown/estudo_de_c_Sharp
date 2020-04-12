@@ -1,0 +1,10 @@
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\bin\Debug\expressaoLambda.exe.config
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\bin\Debug\expressaoLambda.exe
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\bin\Debug\expressaoLambda.pdb
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\obj\Debug\expressaoLambda.csprojAssemblyReference.cache
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\obj\Debug\expressaoLambda.Form1.resources
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\obj\Debug\expressaoLambda.Properties.Resources.resources
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\obj\Debug\expressaoLambda.csproj.GenerateResource.cache
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\obj\Debug\expressaoLambda.csproj.CoreCompileInputs.cache
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\obj\Debug\expressaoLambda.exe
+C:\Users\Redpown\source\repos\expressaoLambda\expressaoLambda\obj\Debug\expressaoLambda.pdb

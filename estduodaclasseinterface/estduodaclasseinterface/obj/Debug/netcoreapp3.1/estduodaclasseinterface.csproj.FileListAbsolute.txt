@@ -1,0 +1,13 @@
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\bin\Debug\netcoreapp3.1\estduodaclasseinterface.exe
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\bin\Debug\netcoreapp3.1\estduodaclasseinterface.deps.json
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\bin\Debug\netcoreapp3.1\estduodaclasseinterface.runtimeconfig.json
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\bin\Debug\netcoreapp3.1\estduodaclasseinterface.runtimeconfig.dev.json
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\bin\Debug\netcoreapp3.1\estduodaclasseinterface.dll
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\bin\Debug\netcoreapp3.1\estduodaclasseinterface.pdb
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\obj\Debug\netcoreapp3.1\estduodaclasseinterface.csprojAssemblyReference.cache
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\obj\Debug\netcoreapp3.1\estduodaclasseinterface.csproj.CoreCompileInputs.cache
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\obj\Debug\netcoreapp3.1\estduodaclasseinterface.AssemblyInfoInputs.cache
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\obj\Debug\netcoreapp3.1\estduodaclasseinterface.AssemblyInfo.cs
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\obj\Debug\netcoreapp3.1\estduodaclasseinterface.dll
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\obj\Debug\netcoreapp3.1\estduodaclasseinterface.pdb
+D:\Projetos\VisualStudio\estduodaclasseinterface\estduodaclasseinterface\obj\Debug\netcoreapp3.1\estduodaclasseinterface.genruntimeconfig.cache
